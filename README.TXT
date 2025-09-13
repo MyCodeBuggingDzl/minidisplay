@@ -9,7 +9,7 @@ This project is part of the material for the book
 
 It is discussed in chapter 3.
 
-In this version, the TuneCreator class can be used to create and play a 
+In this version, the TuneCreator class can be used to create and play a  
 simple demo tune.
 
 
