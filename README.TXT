@@ -19,6 +19,7 @@ Question of Part 3
 43: Yes, you can play more than once by passing the SimpleTune object.
 45: public void playNote (inernal)
     public void showInstruments (external)
+46: Open copy of the project.
 51:
 public ClockDisplay()
 {
